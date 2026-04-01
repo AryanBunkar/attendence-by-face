@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy
+pillow
+insightface
+onnxruntime
+# Optional backend dependencies (not required for Streamlit-only deployment)
+fastapi
+uvicorn
+python-multipart
+scikit-learn
